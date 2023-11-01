@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenAPI.Transcriber": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\OneDriveSync\\OneDrive\\OmegaCodex\\Videos\\23 OpenAI Whisper\\SampleTrack.mp3\""
+    }
+  }
+}
